@@ -22,7 +22,6 @@ capmetro <- read.csv("capmetro_UT.csv")
 billboard <- read.csv("billboard.csv")
 ```
 # Homework 2
-The caption should consist of 1-2 sentences describing key features of the plot (if these are not already clear from the chart title and labels) and a short summary of key takeaways from your plot in its relevant context. Think of this caption as a walkthrough for your plot audience.
 
 ### Problem 1
 
